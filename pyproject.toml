@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "basler2"
-version = "0.0.0"
+version = "0.1.0-alpha.0"
 description = "BaslerTwo"
 authors = ["Sergei Shutov <serg.shutov@gmail.com>"]
 license = "MIT"

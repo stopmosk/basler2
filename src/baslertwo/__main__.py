@@ -6,6 +6,8 @@ import click
 @click.version_option()
 def main() -> None:
     """BaslerTwo."""
+    print("Hello from basler2")
+    print("Hello 2")
 
 
 if __name__ == "__main__":
