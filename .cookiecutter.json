@@ -1,0 +1,12 @@
+{
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Sergei Shutov",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "serg.shutov@gmail.com",
+  "friendly_name": "BaslerTwo",
+  "github_user": "stopmosk",
+  "license": "MIT",
+  "package_name": "baslertwo",
+  "project_name": "basler2",
+  "version": "0.0.0"
+}
